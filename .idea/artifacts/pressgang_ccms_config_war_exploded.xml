@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pressgang-ccms-config:war exploded">
+    <output-path>$PROJECT_DIR$/target/pressgang-ccms-config</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="pressgang-ccms-config/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pressgang-ccms-config" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
