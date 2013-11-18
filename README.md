@@ -1,0 +1,2 @@
+This is a basic web application whose only purpose is to server up the file servers.json. If your web server supports
+hosting static files, it will be easier to serve the servers.json file using that functionality.
